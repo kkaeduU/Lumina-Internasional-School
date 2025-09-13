@@ -11,7 +11,6 @@ Salin repository ini ke komputer Anda:
 
 git clone https://github.com/username/lumina-school-website.git
 
-
 Masuk ke folder project:
 
 cd PWL-STS-SAS-K2
